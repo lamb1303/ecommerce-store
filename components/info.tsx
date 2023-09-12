@@ -5,7 +5,7 @@ import UsePreviewModal from "@/hooks/use-preview-modal";
 import { Product } from "@/types";
 import { ShoppingCart } from "lucide-react";
 import React, { MouseEventHandler } from "react";
-import Button from "./ui/Button";
+import Button from "./ui/button";
 import Currency from "./ui/currency";
 interface InfoProps {
   data: Product;
